@@ -17,4 +17,4 @@ This software solves that issue, because you can guarantee consistency in the co
 Film equipment, especially mid to high quality equipment, is expensive. On Amazon, a large green screen can run $40 without a stand to hang it. A green screen with a stand can run $100-$200. Lights can easily run you another $80. That's $200-$300 just for the green screen. No actors, no camera, no editing software, no props, no costumes. That's just a green screen.
 
 # Solution
-This software, only requires a monitor, be it a computer monitor or a television, which many people already own. 
+This software only requires a monitor and a computer to run it on. The screen can be a computer monitor or a television, which many people already own. 
