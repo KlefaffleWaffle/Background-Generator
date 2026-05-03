@@ -13,7 +13,14 @@ https://github.com/user-attachments/assets/ce440764-10fb-4333-bf9a-e08dd2048461
 Another issue of consumer green screens is that inconsistent lighting can cause severe issues while chroma keying. Generally to avoid this, you need proper lighting which also generally requires the screen to be flat to avoid shadows and discoloration. Proper lighting can be hard to achieve. For productions with minimal budget and crew, you might waste a whole day filming only to realize, the green screen is unusable and therefore the whole day is unusable. 
 
 # Solution
-This software solves that issue, because you can guarantee consistency in the colors. The screen is not reflecting light, it is emanating light. 
+This software solves that issue, because you can guarantee consistency in the colors. The screen is not reflecting light, it is emanating light.
+
+In practice, this proved more capable than anticipated; during a demonstration, the tool performed well enough to successfully film green on green.
+
+*See demonstration 2
+
+
+
 
 # Problem Statement 3
 Film equipment, especially mid to high quality equipment, is expensive. On Amazon, a large green screen can run $40 without a stand to hang it. A green screen with a stand can run $100-$200. Lights can easily run you another $80. That's $200-$300 just for the green screen. No actors, no camera, no editing software, no props, no costumes. That's just a green screen.
@@ -23,3 +30,8 @@ This software only requires a monitor and a computer to run it on. The screen ca
 
 # Demonstration
 https://github.com/user-attachments/assets/88ba30de-a733-4307-84f7-064affad162c
+
+# Demonstration 2
+<img width="4032" height="3024" alt="20260503_083144" src="https://github.com/user-attachments/assets/e01dc351-5eb4-4823-822b-69e9fe2ef15a" />
+
+https://github.com/user-attachments/assets/ca16f15b-ad94-4526-840e-dd217b40d1fc
